@@ -2,10 +2,11 @@
 
 Repositório referente ao módulo de desenvolvimento mobile do curso de Inteligência Artificial do Instituto Iracema em parceria com a UECE e a Softex. Nesse módulo foi trabalhada a linguagem de programação Dart em conjunto com o framework Flutter.
 
+<p align="justify"> Nos projetos realizados foram feitas correção de versão e atualização de dependências. </p>
+
 ## Projetos Desenvolvidos
 
 - Instagram Responsivo
-<p align="justify"> Correção de versão e atualização de dependências </p>
 
 <div align="center">
 
@@ -15,7 +16,7 @@ Repositório referente ao módulo de desenvolvimento mobile do curso de Intelig�
 
 </div></br></br>
 
-- Página de venda de curso online
+- Página de curso online Responsiva
 
 <p align="justify"> Correção de versão e atualização de dependências </p>
 
