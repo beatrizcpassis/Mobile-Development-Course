@@ -31,3 +31,15 @@ Repositório referente ao módulo de desenvolvimento mobile do curso de Intelig�
 
 </div></br></br>
 
+- Contador Provider
+
+
+<div align="center">
+
+<img align="center" alt="experimento" height="400" width="700" src="https://user-images.githubusercontent.com/113054956/233517745-fe839662-c83c-4029-b494-eb8dd99e186b.png">
+  
+  <p align="center"> Realizado no VS Code em conjunto com o Android Studio, no modelo pixel 5. </p>
+
+</div></br></br>
+
+
