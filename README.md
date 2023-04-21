@@ -4,7 +4,7 @@ Repositório referente ao módulo de desenvolvimento mobile do curso de Intelig�
 
 <p align="justify"> Nos projetos realizados foram feitas correção de versão e atualização de dependências. </p>
 
-## Projetos Desenvolvidos
+## Projetos Desenvolvidos/Atualizados
 
 - Instagram Responsivo
 
@@ -39,6 +39,20 @@ Repositório referente ao módulo de desenvolvimento mobile do curso de Intelig�
 <img align="center" alt="experimento" height="400" width="700" src="https://user-images.githubusercontent.com/113054956/233517745-fe839662-c83c-4029-b494-eb8dd99e186b.png">
   
   <p align="center"> Realizado no VS Code em conjunto com o Android Studio, no modelo pixel 5. </p>
+
+</div></br></br>
+
+- Loja Online
+
+
+<div align="center">
+
+<img align="center" alt="experimento" height="500" width="250" src="https://user-images.githubusercontent.com/113054956/233522111-9e35d460-cdcb-465d-9f00-4b8925fa692f.png">
+ 
+ <img align="center" alt="experimento" height="500" width="250" src="https://user-images.githubusercontent.com/113054956/233522535-b4780dc2-bb7a-4ba2-879f-27fc047d0cc7.png">
+ 
+ <img align="center" alt="experimento" height="500" width="250" src="https://user-images.githubusercontent.com/113054956/233522584-fc1dbab9-baf8-4b5a-b07c-97698d25399a.png">
+  <p align="center"> Tela de login | Tela de Opções | Carrinho. </p>
 
 </div></br></br>
 
